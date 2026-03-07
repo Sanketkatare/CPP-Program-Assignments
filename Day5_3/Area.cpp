@@ -11,6 +11,9 @@ void area (int = 1);
     };
 int main()
 {
+   
     area(3); //overloaded function get called 
     area(3,4);//overloaded function get called 
+    
+    return 0;
 }
